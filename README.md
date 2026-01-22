@@ -1,5 +1,11 @@
 # ⚾️ 야구보구 👀
 
+
+<a href="https://play.google.com/store/apps/details?id=com.yagubogu&hl=ko">
+  <img src="https://badge.medandro.com/badge/full?id=com.yagubogu&country=kr" alt="Google Play Badge" width="350"/>
+</a>
+
+
 ## 📍 프로젝트 소개
 야구 팬의 직관 활동을 기록하고 통계화하여 성취감과 경쟁심을 자극하는 **야구 팬 커뮤니티 앱**
 
